@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CircleList>
+    <Circle>
+        <Table>10 12</Table>
+        <Center>4 5</Center>
+        <Radius>4</Radius>
+    </Circle>
+    <Circle>
+        <Table>23 33</Table>
+        <Center>10 11</Center>
+        <Radius>8</Radius>
+    </Circle>
+</CircleList>
